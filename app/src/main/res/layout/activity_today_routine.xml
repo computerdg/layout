@@ -53,7 +53,7 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="200dp"
-            android:text="1️⃣ 벤치프레스 10회 x 4set\n2️⃣ 스쿼트 15회 x 5set\n️3️⃣ 케이블 푸쉬다운 10회 x 5set\n4️⃣ 러닝 40분"
+            android:text="벤치프레스 10회 x 4set\n스쿼트 15회 x 5set\n️케이블 푸쉬다운 10회 x 5set\n러닝 40분"
             android:textSize="20dp"
             android:padding="8dp"
             android:textColor="@android:color/black" />
