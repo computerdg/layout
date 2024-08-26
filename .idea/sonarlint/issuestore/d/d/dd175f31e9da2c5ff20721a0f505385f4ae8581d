@@ -1,0 +1,8 @@
+
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÍÙ¹ôúÿÿÿÿ8î¸Ç—2J$45e48fba-d4bb-4ab0-9714-63b296f79eab
+j
+java:S1659"'Declare "etEndDate" on a separate line.(Úè¯8ü¸Ç—2J$e8472d17-48ff-459d-a473-afda472ae0d4
+›
+java:S1450"XRemove the "etEndDate" field and declare it as a local variable in the relevant methods.(Úè¯8‚¸Ç—2J$720e8f37-1508-465b-9734-f4758a2b5367
+
+java:S1450"ZRemove the "etStartDate" field and declare it as a local variable in the relevant methods.(Úè¯8‚¸Ç—2J$c2eff089-d937-4f18-8d64-886b224a95e4

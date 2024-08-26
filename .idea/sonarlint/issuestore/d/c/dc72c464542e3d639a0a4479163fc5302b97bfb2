@@ -1,0 +1,10 @@
+
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(øÿıšüÿÿÿÿ8™†€È—2
+w
+java:S1659"/Declare "setAndRepTextView" on a separate line.(•çĞùşÿÿÿÿ8¬şÇ—2J$5ec0c92c-80a0-44e8-8b13-8f5e7f5c0a40
+¡
+java:S1450"YRemove the "fixEditBtn" field and declare it as a local variable in the relevant methods.(ÜşÂ÷şÿÿÿÿ8­şÇ—2J$22db02b3-a50b-4e3d-be82-8b4b93cd03be
+ª
+java:S1450"bRemove the "workoutNameTextView" field and declare it as a local variable in the relevant methods.(•çĞùşÿÿÿÿ8­şÇ—2J$54b0ae83-1c99-4a7a-9871-14844c9ab0f1
+
+java:S1068"7Remove this unused "workoutNameTextView" private field.(•çĞùşÿÿÿÿ8¿şÇ—2J$5a1bad48-6d31-448f-8698-d58af23375c4
